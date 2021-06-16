@@ -1,0 +1,61 @@
+.Bat{
+    display: block;
+    height: 150px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+
+h1 {  
+    font-family: 'Times New Roman';
+    font-size: 30px ;
+    text-align: center;
+    color: #005677;
+    background-color: #C4C4C4;
+    line-height: 29,64px;
+    letter-spacing: 0.25em;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.subtitulos{
+    background-color:#C4C4C4;
+    color:#005677;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+
+.Informacion{
+    padding-left: 225px;
+    padding-right: 174px;
+    padding-top: 104px;
+    padding-bottom: 176px;
+}
+
+
+.siguienteLinea{
+    position: relative;
+    left: 74px;
+}
+
+.pieDePagina{
+    text-align: center;
+    background-color: #005677;
+    color: #FFFFFF;
+    padding: 5px;
+}
+h3 img{
+    height: 20px;
+    width: 20px;
+    vertical-align: middle;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+li {
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
